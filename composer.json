@@ -1,0 +1,13 @@
+{
+    "name": "eric/test-comps",
+    "authors": [ {"name" : "eric", "email": "eric@inuscomm.co.kr"}],
+    "autoload": {
+        "psr-4": {
+            "Eric\\": "src/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+    
+}
