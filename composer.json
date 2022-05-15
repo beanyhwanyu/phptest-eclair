@@ -1,5 +1,5 @@
 {
-    "name": "eric/test-comps",
+    "name": "ericinus/test-comps",
     "authors": [ {"name" : "eric", "email": "eric@inuscomm.co.kr"}],
     "autoload": {
         "psr-4": {
